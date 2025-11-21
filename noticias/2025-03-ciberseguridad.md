@@ -240,7 +240,7 @@ Vulnerabilidades web más críticas:
    - Plan de respuesta documentado
    - Equipo CSIRT (Computer Security Incident Response Team)
    - Comunicación de crisis
-   - Forensia digital
+   - Análisis forense digital
 
 4. **Compliance**
    - GDPR para datos europeos

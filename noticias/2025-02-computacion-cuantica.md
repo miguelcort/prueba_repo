@@ -46,10 +46,10 @@ La computación cuántica utiliza principios de la mecánica cuántica para proc
 ### Software Cuántico
 
 Frameworks y herramientas disponibles:
-- **Qiskit** (IBM): Open source, amplia comunidad
+- **Qiskit** (IBM): Código abierto, amplia comunidad
 - **Cirq** (Google): Optimizado para procesadores NISQ
 - **Q#** (Microsoft): Lenguaje de programación cuántica
-- **PennyLane**: ML cuántico y optimización
+- **PennyLane**: Machine Learning cuántico y optimización
 - **Amazon Braket**: Plataforma cloud para computación cuántica
 
 ## Aplicaciones Prácticas
